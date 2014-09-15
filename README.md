@@ -3,8 +3,8 @@ JDBC
 
 Design and implement an end-to-end java application that queries a relational database.
 
-1. JDBC programming
+1. JDBC programming and database queries
 
-2. design a GUI in Java
+2. GUI design in Java
 
-3. Oracle Spatial Java API
+3. Oracle Spatial Query
